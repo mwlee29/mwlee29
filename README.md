@@ -23,6 +23,7 @@ I'm glad you found your way to my profile page!
 - Django
 
 Connect with me on LinkedIn!
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lee-matthew-w)
 
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwlee29)](https://github.com/anuraghazra/github-readme-stats)
