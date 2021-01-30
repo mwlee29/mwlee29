@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi there, I'm Matthew! 👋
 
-<!--
-**mwlee29/mwlee29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm glad you found your way to my profile page!
 
-Here are some ideas to get you started:
+### A little bit about me
+- I enjoy working with C#/.NET, it's where I got my start after all!
+- I was studying physics in school, and I love to solve problems!
+- I have a dog, Nina, who sighs at me when I write bad code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+- I'm building a website for a local artist to showcase his work
+- I'm creating a digital version of a board game my friend made so that he can demo it during the pandemic
+
+### Things I like to work with (that don't always like working with me)
+- C#/.NET
+- Unity
+- ReactJS
+
+### Other stuff that I've used in the past
+- GraphQL
+- MongoDB
+- RedwoodJS
+- Django
+
+Connect with me on LinkedIn!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lee-matthew-w)
+
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwlee29)](https://github.com/anuraghazra/github-readme-stats)
